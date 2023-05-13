@@ -6,4 +6,4 @@ https://developer.apple.com/library/archive/samplecode/PDFCalendar/Introduction/
 Screenshots:
 
 ![Home](ss_01_home.png)
-![Calendar](ss_01_home.png)
+![Calendar](ss_02_cal.png)
